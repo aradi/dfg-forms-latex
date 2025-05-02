@@ -6,6 +6,18 @@ The goal is to offer clean, editable, and reusable LaTeX versions of standard DF
 
 > **Disclaimer:** These templates are provided *without any guarantee of completeness or correctness*. They are intended solely as a starting point for drafting your application or report. **Always cross-check with the official DFG forms** to ensure compliance before submission.
 
+## Forms
+
+Currently, following forms can be found in this repository:
+
+* [3.06 – 03/25](forms/3.06_03-25/): Template for a Final Report under the
+  Individual Grants Programme: Research Grants Programme
+  
+* [53.01 - 03/25](forms/53.01_03-25/): Project Description - Project Proposal
+
+* [53.30 - 07/22](forms/53.30_07-22/): Project Description – International
+  Scientific Events
+
 
 ## License
 
